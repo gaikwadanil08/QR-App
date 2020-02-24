@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QRMain</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="egName">e.g. Rohan Darade</string>
+    <string name="egBankName">e.g. Bank of Maharashtra</string>
+    <string name="egUpiId">e.g. 9876543210@upi</string>
+    <string name="upiId">Your UPI ID</string>
+    <string name="bankName">Your Bank Name</string>
+    <string name="name">Your Name</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="egUsername">e.g. rohan</string>
+    <string name="password">Password</string>
+    <string name="egPassword">Enter Password</string>
+    <string name="user">Enter User Name</string>
+    <string name="forgetPass">Forget Password</string>
+    <string name="registerHere">Register Here</string>
+    <string name="static_qr">Static QR</string>
+    <string name="generate">Generate QR</string>
+</resources>
